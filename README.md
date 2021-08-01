@@ -7,18 +7,21 @@ The Workshop Carried Out in the below manner:
 <br>
 <h2>Day-1 : Basics of PLL </h2>
 <h2> Contents: </h2>
-1.  About PLL and its application
-2.  Componets of PLL
-3.  Important terms in PLL
-4.  Design Flow and Lab setup
-5.  Specifiation
+<ol>1. About PLL and its application</ol>
+<ol>2. Componets of PLL</ol>
+<ol>3. Important terms in PLL</ol>
+<ol>4. Design Flow and Lab setup</ol>
+<ol>5. Specifiation</ol>
+
 <br>
 <h2>Day 2 : PLL simulation (Prelayout and Postlayout)</h2>
 <h2> Contents:</h2>
-<br>
-1. One
-2. Two
-3. Three
+<ol>1. PreLayout simulation</ol>
+<ol>2. PostLayout simulation</ol>
+<ol>3.</ol>
+<ol>4. Tabeout</ol>
+<ol>5. Acknowlegement</ol>
+
 
 
 
