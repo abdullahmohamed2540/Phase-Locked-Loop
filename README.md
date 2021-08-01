@@ -12,15 +12,37 @@ The Workshop Carried Out in the below manner:
 <ol>3. Important terms in PLL</ol>
 <ol>4. Design Flow and Lab setup</ol>
 <ol>5. Specifiation</ol>
+<hr>
+<h2>1. About PLL and its application</h2>
+  
+  <h4>A phase-locked loop or phase lock loop (PLL), it is an control system that generates  output signal whose phase is mimic to the phase of an input signal.it is an important Basic block for radio Frequency application.</h4>
+<h3>Block Diagram</h3>
+  
+![p (2)](https://user-images.githubusercontent.com/65411629/127783600-f99d83ad-bd6c-495e-adda-205a8591692d.png)
+<p>It has two parts compare frequency and frequency mather, Compare frequency helps to compare the difference between the reference and feedback frequency. Frequency mather helps to adjust to mimic feedback frequency with respect to input frequency.</p>
+<h4> Application node:<h4>
+  
+![Phase-locked-loop-control-system](https://user-images.githubusercontent.com/65411629/127784223-5e9945ee-2686-40e2-b31a-76bc97653810.png)
+<h5>It helps to control speed of a motor</h5>
+<h4>More Application:</h4>
+<ul>1.Used in demodulation of frequency modulation (FM)</ul>
+<ul>2.Used in demodulation of frequency-shift keying (FSK)</ul>
+<ul>3.generate Clock multipliers in microprocessors </ul>
+  
+  
+<h2>2. Componets of PLL</h2>
+  <h3>1. Phase Frequency Detector<h3>
+
+![Phase-Frequency-Detector-Block-Diagram (2)](https://user-images.githubusercontent.com/65411629/127784340-5415b5e9-9e25-4163-a5a9-233ad9873d9f.png)
+
 
 <br>
 <h2>Day 2 : PLL simulation (Prelayout and Postlayout)</h2>
 <h2> Contents:</h2>
 <ol>1. PreLayout simulation</ol>
 <ol>2. PostLayout simulation</ol>
-<ol>3.</ol>
-<ol>4. Tabeout</ol>
-<ol>5. Acknowlegement</ol>
+<ol>3. Tabeout</ol>
+<ol>4. Acknowlegement</ol>
 
 
 
