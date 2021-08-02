@@ -58,6 +58,7 @@ wave form of charge pump is shown
   It is a Concept of series of odd number of inverters,period = 2*delay(inverter)*inverter-count.
  
   ![counter-cou1](https://user-images.githubusercontent.com/65411629/127826983-92468824-8a0e-4ca6-9612-abc7f6e5fd1f.gif)
+  
 
 
 <br>
@@ -85,6 +86,10 @@ wave form of charge pump is shown
   <h4>4.Frequeny Divider</h4>
   
   ![p-pdf](https://user-images.githubusercontent.com/65411629/127845601-b7df7fe6-8e27-4092-a5a6-25c731d9ade3.jpg)
+  
+    <h3>6.Phase Locked Loop<h3>
+  
+![pll40mhz](https://user-images.githubusercontent.com/65411629/127899313-b75412aa-0523-4a8f-8097-dc1ba8711e49.jpg)
   
   <h3>Post layout and Parasitic Extraction</h3>
   <h4>1.Phase frequency Detector</h4>
