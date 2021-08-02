@@ -33,6 +33,7 @@ The Workshop Carried Out in the below manner:
 <h2>2. Componets of PLL</h2>
   <h3>1. Phase Frequency Detector</h3>
 It helps to compare the reference frequency signal(RefCLK) with Output frequency signal(FBCLK) to find out the differnce in the signal. such that if a signal is leading then it termed as output as up. When the signal is down it says that output signal is lagging.
+
 ![Phase-Frequency-Detector-Block-Diagram (2)](https://user-images.githubusercontent.com/65411629/127784340-5415b5e9-9e25-4163-a5a9-233ad9873d9f.png)
  Wave form and state diagram representation is attached below.
  
@@ -40,6 +41,19 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
    
 <h3>2.Charge Pumb</h3>
   the output from phase frequency detector is given as input of charge pump.It converts digital measure of phase/frequeny difference into an analog control signal to control the oscillator.
+
+![220px-ChargePumpPLLCircuit svg](https://user-images.githubusercontent.com/65411629/127820088-340cc70b-36be-46b6-9d5d-056013d3e3cd.png)
+wave form of charge pump is shown  
+![chargepump](https://user-images.githubusercontent.com/65411629/127822026-868869b3-2e01-49d3-91b9-38564608cd26.jpg)
+<h3>3.Low Pass Filter</h3>
+  It is the omplement of high pass filter.it passes signals with a frequency lower than a selected cutoff frequency and attenuates. WithouT THIS PLL doesm't Lock. 
+  
+  ![lp](https://user-images.githubusercontent.com/65411629/127825078-d8ce7f39-746b-497c-83d2-2ba58a811a16.jpg)
+<h3> 4. Votage Controlled Oscillator</h3>
+   It is an oscillator whose oscillation frequency is controlled by a voltage input.
+  
+  ![Frequency-Control-in-VCO](https://user-images.githubusercontent.com/65411629/127826087-d41bec5a-755a-42f3-bf3e-8d75d5e08792.jpg)
+
 
 <br>
 <h2>Day 2 : PLL simulation (Prelayout and Postlayout)</h2>
