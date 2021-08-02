@@ -19,7 +19,7 @@ The Workshop Carried Out in the below manner:
 
 5. [Specifiation](#sepcs)
 
-6.[Day 2- Pre and Post simulation](#pre) 
+6. [Day 2- Pre and Post simulation](#pre) 
 
 <hr>
 
@@ -72,12 +72,20 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
  
   ![fd](https://user-images.githubusercontent.com/65411629/127902550-28c66e83-1ac5-4388-aad9-779c350f1376.jpg)
 
+ <h3>Important Terms In PLL <a name="terms"></a></h3>
   
-
+  <h4>1. Lock Range</h4>
+  PLL ia able to follow input frequency variation once it locked its destinct range.
+  
+  <h4>2.Capture Range</h4>
+  The frequency range PLL is able to lock when starting from an unlocked condition.
+  
+  <h4>3.Setting Time</h4>
+  The time within when the PLL is able to lock in form an unlocked condition.
 
 <br>
  <hr>
-<h2>Day 2 : PLL simulation (Prelayout and Postlayout)<a name="pre"></a></h2>
+<h2>Day 2 : PLL simulation (Prelayout and Postlayout) <a name="pre"></a></h2>
 # Table of Contents
 
 1. [PreLayout simulation](#prelayout)
