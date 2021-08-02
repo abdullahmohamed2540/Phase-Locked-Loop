@@ -85,6 +85,24 @@ wave form of charge pump is shown
   <h4>4.Frequeny Divider</h4>
   
   ![p-pdf](https://user-images.githubusercontent.com/65411629/127845601-b7df7fe6-8e27-4092-a5a6-25c731d9ade3.jpg)
+  
+  <h3>Post layout and Parasitic Extraction</h3>
+  <h4>1.Phase frequency Detector</h4>
+  
+  ![fpd](https://user-images.githubusercontent.com/65411629/127896763-e9df250c-bf8d-442d-bb99-c63cbc8fe0b6.PNG)
+<h4>2.Charge Pump</h4>
+
+  ![cd2](https://user-images.githubusercontent.com/65411629/127897120-1e3d94b7-4e06-43b0-9777-b884430850c3.PNG)
+<h4>3.MUX</h4>
+
+  ![mux - Copy](https://user-images.githubusercontent.com/65411629/127898062-fb3aaec4-0899-4f4a-aabb-5cc20fe6273f.PNG)
+
+  <h4>4.Voltage Controlled Oscillator</h4>
+  
+  ![VCO_Layout](https://user-images.githubusercontent.com/65411629/127897933-53973352-992d-4162-ac63-e443e855c39b.jpg)
+<h4>5. Frequency Divider</h4>
+  
+  ![fpd](https://user-images.githubusercontent.com/65411629/127898288-501d02ef-2f75-4790-8eec-f19004168296.PNG)
 
 
 
