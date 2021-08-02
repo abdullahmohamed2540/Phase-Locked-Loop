@@ -91,6 +91,7 @@ directory_name_where_files_are_present file_name.cir
   After down with NgSpice layout design will take place in magic. Magic is used for designing the layout file, writing the GDS file for fabrication and also to extracrt the parisitics. To execute the file, on the CMD window type :
 directory magic -T technology_file_name_from_PDK layout_file
 In this project, we have used sky130A.tech for the 130nm node technology from Google Skywater library.
+<h3>5. Specification <a name="specs" ></a></h3>
 
 <br>
  <hr>
