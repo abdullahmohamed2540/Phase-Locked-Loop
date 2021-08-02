@@ -52,7 +52,12 @@ wave form of charge pump is shown
 <h3> 4. Votage Controlled Oscillator</h3>
    It is an oscillator whose oscillation frequency is controlled by a voltage input.
   
-  ![Frequency-Control-in-VCO](https://user-images.githubusercontent.com/65411629/127826087-d41bec5a-755a-42f3-bf3e-8d75d5e08792.jpg)
+  ![Phase-Frequency-Detector-Block-Diagram (2)](https://user-images.githubusercontent.com/65411629/127826611-895a5763-589a-4a92-8910-683a239912c7.png)
+
+<h3>5. Frequency Divider</h3>
+  It is a Concept of series of odd number of inverters,period = 2*delay(inverter)*inverter-count.
+ 
+  ![counter-cou1](https://user-images.githubusercontent.com/65411629/127826983-92468824-8a0e-4ca6-9612-abc7f6e5fd1f.gif)
 
 
 <br>
