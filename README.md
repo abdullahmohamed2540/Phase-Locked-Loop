@@ -82,6 +82,15 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
   
   <h4>3.Setting Time</h4>
   The time within when the PLL is able to lock in form an unlocked condition.
+  
+  <h3>4. Design flow and Labsetup <a name="design"></a></h3>
+  <h4>NgSpice Tool</h4>
+  Intial flow start with targeted design in NgSpice.NgSpice directly simulates the circuit(.cir) file given and plots the results according to the specifications mentioned in the circuit file. To execute the circuite file, on the CMD window type :
+directory_name_where_files_are_present file_name.cir
+<h4>Magic Tool</h4>
+  After down with NgSpice layout design will take place in magic. Magic is used for designing the layout file, writing the GDS file for fabrication and also to extracrt the parisitics. To execute the file, on the CMD window type :
+directory magic -T technology_file_name_from_PDK layout_file
+In this project, we have used sky130A.tech for the 130nm node technology from Google Skywater library.
 
 <br>
  <hr>
