@@ -37,6 +37,7 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
 ![Phase-Frequency-Detector-Block-Diagram (2)](https://user-images.githubusercontent.com/65411629/127784340-5415b5e9-9e25-4163-a5a9-233ad9873d9f.png)
  Wave form and state diagram representation is attached below.
  
+
 ![pfd](https://user-images.githubusercontent.com/65411629/127818205-9ce876ff-210b-49a0-9d95-11a555f6af6f.jpg)
    
 <h3>2.Charge Pumb</h3>
@@ -74,7 +75,8 @@ wave form of charge pump is shown
   It is the simulation before design the layout to verify the designed circuit giving the right output
   <h4>Phase Frequency Detector Simulation using ngspice</h4>
   
-  ![pfdc](https://user-images.githubusercontent.com/65411629/127844936-bd00f3cb-e632-4c3d-a7e1-d33180e59038.jpg)
+![pfdc](https://user-images.githubusercontent.com/65411629/127900130-58e12168-510f-4232-a4d1-120b42536dc8.jpg)
+
   <h4>2.Charge Pump simulation using ngspice</h4>
   
   ![cp](https://user-images.githubusercontent.com/65411629/127845363-227437ef-e0e7-4c39-9403-b7560ecd7a78.jpg)
