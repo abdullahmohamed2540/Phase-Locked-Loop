@@ -6,14 +6,22 @@ The Layout design using Magic and parasitic extraction.
 The Workshop Carried Out in the below manner:
 <br>
 <h2>Day-1 : Basics of PLL </h2>
-<h2> Contents: </h2>
-<ol>1. About PLL and its application</ol>
-<ol>2. Componets of PLL</ol>
-<ol>3. Important terms in PLL</ol>
-<ol>4. Design Flow and Lab setup</ol>
-<ol>5. Specifiation</ol>
+
+# Table of Contents
+
+1. [About PLL and its application](#about)
+
+2. [Componets of PLL](#Componets)
+
+3. [Important terms in PLL](#terms)
+
+4. [Design Flow and Lab setup](#design)
+
+5. [Specifiation](#sepcs)
+
 <hr>
-<h2>1. About PLL and its application</h2>
+
+## 1.About PLL and its application <a name="about"></a>
   
   <h4>A phase-locked loop or phase lock loop (PLL), it is an control system that generates  output signal whose phase is mimic to the phase of an input signal.it is an important Basic block for radio Frequency application.</h4>
 <h3>Block Diagram</h3>
@@ -30,8 +38,8 @@ The Workshop Carried Out in the below manner:
 <ul>2.Used in demodulation of frequency-shift keying (FSK)</ul>
 <ul>3.generate Clock multipliers in microprocessors </ul>
   
-  
-<h2>2. Componets of PLL</h2>
+<h3> 2.Componets of PLL <a name="Componets"></a></h3>
+
   <h3>1. Phase Frequency Detector</h3>
 It helps to compare the reference frequency signal(RefCLK) with Output frequency signal(FBCLK) to find out the differnce in the signal. such that if a signal is leading then it termed as output as up. When the signal is down it says that output signal is lagging.
 
@@ -68,13 +76,18 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
 <br>
  <hr>
 <h2>Day 2 : PLL simulation (Prelayout and Postlayout)</h2>
-<h2> Contents:</h2>
-<ol>1. PreLayout simulation</ol>
-<ol>2. PostLayout simulation</ol>
-<ol>3. Tabeout</ol>
-<ol>4. Acknowlegement</ol>
+# Table of Contents
+
+1. [PreLayout simulation](#prelayout)
+
+2. [PostLayout simulation](#postlayout)
+
+3. [Tabeout](#tape)
+
+4. [Acknowlegement](#ackno)
+
   <hr>
-<h3>1. PreLayout Simulation</h3>
+<h3>1. PreLayout Simulation <a name="prelayout"></a></h3>
   It is the simulation before design the layout to verify the designed circuit giving the right output
   <h4>1.Phase Frequency Detector Simulation using ngspice</h4>
   
@@ -96,7 +109,7 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
   
 ![pll40mhz](https://user-images.githubusercontent.com/65411629/127899313-b75412aa-0523-4a8f-8097-dc1ba8711e49.jpg)
   
-  <h3>Post layout and Parasitic Extraction</h3>
+  <h3>Post layout and Parasitic Extraction <a name="postlayout"></a></h3>
   <h4>1.Phase frequency Detector</h4>
   
   ![fpd](https://user-images.githubusercontent.com/65411629/127896763-e9df250c-bf8d-442d-bb99-c63cbc8fe0b6.PNG)
@@ -113,7 +126,4 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
 <h4>5. Frequency Divider</h4>
   
   ![fpd](https://user-images.githubusercontent.com/65411629/127898288-501d02ef-2f75-4790-8eec-f19004168296.PNG)
-
-
-
 
