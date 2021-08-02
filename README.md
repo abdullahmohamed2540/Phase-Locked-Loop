@@ -161,3 +161,8 @@ Duty cycle = 50%
   
   ![fpd](https://user-images.githubusercontent.com/65411629/127898288-501d02ef-2f75-4790-8eec-f19004168296.PNG)
 
+  <h3>Acknowlegement <a name="ackno"></a></h3>
+  
+1. I would like to thank Mr. Kunal Ghosh, co-founder VSD, for providing me with this wonderful 2-day workshop.
+
+2. I would like to thank Ms. Lakshmi S, for fullest guiding on design of PLL.
