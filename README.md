@@ -41,11 +41,11 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
 ![pfd](https://user-images.githubusercontent.com/65411629/127818205-9ce876ff-210b-49a0-9d95-11a555f6af6f.jpg)
    
 <h3>2.Charge Pumb</h3>
-  the output from phase frequency detector is given as input of charge pump.It converts digital measure of phase/frequeny difference into an analog control signal to control the oscillator.
+  the output from phase frequency detector is given as input of charge pump.It converts digital measure of phase/frequeny difference into an analog control signal to control the oscillator.wave form of charge pump is shown
 
-![220px-ChargePumpPLLCircuit svg](https://user-images.githubusercontent.com/65411629/127820088-340cc70b-36be-46b6-9d5d-056013d3e3cd.png)
-wave form of charge pump is shown  
-![chargepump](https://user-images.githubusercontent.com/65411629/127822026-868869b3-2e01-49d3-91b9-38564608cd26.jpg)
+  ![pfd](https://user-images.githubusercontent.com/65411629/127900803-c1d88698-6fd8-4847-ad9c-5d867c331af3.jpg)
+
+
 <h3>3.Low Pass Filter</h3>
   It is the omplement of high pass filter.it passes signals with a frequency lower than a selected cutoff frequency and attenuates. WithouT THIS PLL doesm't Lock. 
   
