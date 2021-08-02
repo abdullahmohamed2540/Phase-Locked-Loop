@@ -19,6 +19,8 @@ The Workshop Carried Out in the below manner:
 
 5. [Specifiation](#sepcs)
 
+6.[Day 2- Pre and Post simulation](#pre) 
+
 <hr>
 
 ## 1.About PLL and its application <a name="about"></a>
@@ -75,7 +77,7 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
 
 <br>
  <hr>
-<h2>Day 2 : PLL simulation (Prelayout and Postlayout)</h2>
+<h2>Day 2 : PLL simulation (Prelayout and Postlayout)<a name="pre"></a></h2>
 # Table of Contents
 
 1. [PreLayout simulation](#prelayout)
