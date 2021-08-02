@@ -92,7 +92,7 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
   
   ![p-pdf](https://user-images.githubusercontent.com/65411629/127845601-b7df7fe6-8e27-4092-a5a6-25c731d9ade3.jpg)
   
-    <h4>5.Phase Locked Loop</h4>
+  <h4>5.Phase Locked Loop</h4>
   
 ![pll40mhz](https://user-images.githubusercontent.com/65411629/127899313-b75412aa-0523-4a8f-8097-dc1ba8711e49.jpg)
   
