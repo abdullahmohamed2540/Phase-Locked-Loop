@@ -43,7 +43,8 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
 <h3>2.Charge Pumb</h3>
   the output from phase frequency detector is given as input of charge pump.It converts digital measure of phase/frequeny difference into an analog control signal to control the oscillator.wave form of charge pump is shown
 
-  ![pfd](https://user-images.githubusercontent.com/65411629/127900803-c1d88698-6fd8-4847-ad9c-5d867c331af3.jpg)
+  ![pfd](https://user-images.githubusercontent.com/65411629/127901526-8f7926c7-fc66-4ae0-8813-dd3c855d8468.jpg)
+
 
 
 <h3>3.Low Pass Filter</h3>
