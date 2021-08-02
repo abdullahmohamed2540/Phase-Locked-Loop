@@ -17,8 +17,9 @@ The Workshop Carried Out in the below manner:
   
   <h4>A phase-locked loop or phase lock loop (PLL), it is an control system that generates  output signal whose phase is mimic to the phase of an input signal.it is an important Basic block for radio Frequency application.</h4>
 <h3>Block Diagram</h3>
-  
-![p (2)](https://user-images.githubusercontent.com/65411629/127783600-f99d83ad-bd6c-495e-adda-205a8591692d.png)
+
+![p (2)](https://user-images.githubusercontent.com/65411629/127902294-4fc958aa-c9b6-4579-90a3-c3ac504d13da.png)
+
 <p>It has two parts compare frequency and frequency mather, Compare frequency helps to compare the difference between the reference and feedback frequency. Frequency mather helps to adjust to mimic feedback frequency with respect to input frequency.</p>
 <h4> Application node:<h4>
   
@@ -34,8 +35,8 @@ The Workshop Carried Out in the below manner:
   <h3>1. Phase Frequency Detector</h3>
 It helps to compare the reference frequency signal(RefCLK) with Output frequency signal(FBCLK) to find out the differnce in the signal. such that if a signal is leading then it termed as output as up. When the signal is down it says that output signal is lagging.
 
-![Phase-Frequency-Detector-Block-Diagram (2)](https://user-images.githubusercontent.com/65411629/127784340-5415b5e9-9e25-4163-a5a9-233ad9873d9f.png)
- Wave form and state diagram representation is attached below.
+![pfdbl](https://user-images.githubusercontent.com/65411629/127902079-54c57396-9cd9-4cba-89ab-f14b83b63b1f.jpg)
+
  
 
 ![pfd](https://user-images.githubusercontent.com/65411629/127818205-9ce876ff-210b-49a0-9d95-11a555f6af6f.jpg)
@@ -59,7 +60,8 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
 <h3>5. Frequency Divider</h3>
   It is a Concept of series of odd number of inverters,period = 2*delay(inverter)*inverter-count.
  
-  ![counter-cou1](https://user-images.githubusercontent.com/65411629/127826983-92468824-8a0e-4ca6-9612-abc7f6e5fd1f.gif)
+  ![fd](https://user-images.githubusercontent.com/65411629/127902550-28c66e83-1ac5-4388-aad9-779c350f1376.jpg)
+
   
 
 
@@ -74,7 +76,7 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
   <hr>
 <h3>1. PreLayout Simulation</h3>
   It is the simulation before design the layout to verify the designed circuit giving the right output
-  <h4>Phase Frequency Detector Simulation using ngspice</h4>
+  <h4>1.Phase Frequency Detector Simulation using ngspice</h4>
   
 ![pfdc](https://user-images.githubusercontent.com/65411629/127900130-58e12168-510f-4232-a4d1-120b42536dc8.jpg)
 
@@ -90,7 +92,7 @@ It helps to compare the reference frequency signal(RefCLK) with Output frequency
   
   ![p-pdf](https://user-images.githubusercontent.com/65411629/127845601-b7df7fe6-8e27-4092-a5a6-25c731d9ade3.jpg)
   
-    <h3>6.Phase Locked Loop<h3>
+    <h4>5.Phase Locked Loop</h4>
   
 ![pll40mhz](https://user-images.githubusercontent.com/65411629/127899313-b75412aa-0523-4a8f-8097-dc1ba8711e49.jpg)
   
