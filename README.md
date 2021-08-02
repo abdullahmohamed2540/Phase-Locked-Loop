@@ -61,12 +61,30 @@ wave form of charge pump is shown
 
 
 <br>
+ <hr>
 <h2>Day 2 : PLL simulation (Prelayout and Postlayout)</h2>
 <h2> Contents:</h2>
 <ol>1. PreLayout simulation</ol>
 <ol>2. PostLayout simulation</ol>
 <ol>3. Tabeout</ol>
 <ol>4. Acknowlegement</ol>
+  <hr>
+<h3>1. PreLayout Simulation</h3>
+  It is the simulation before design the layout to verify the designed circuit giving the right output
+  <h4>Phase Frequency Detector Simulation using ngspice</h4>
+  
+  ![pfdc](https://user-images.githubusercontent.com/65411629/127844936-bd00f3cb-e632-4c3d-a7e1-d33180e59038.jpg)
+  <h4>2.Charge Pump simulation using ngspice</h4>
+  
+  ![cp](https://user-images.githubusercontent.com/65411629/127845363-227437ef-e0e7-4c39-9403-b7560ecd7a78.jpg)
+  
+  <h4>3.Voltage Controlled Oscillator</h4>
+  
+  ![vco](https://user-images.githubusercontent.com/65411629/127845508-8012c9f3-7d9e-4b3b-b163-9cc1aa302c5f.jpg)
+
+  <h4>4.Frequeny Divider</h4>
+  
+  ![p-pdf](https://user-images.githubusercontent.com/65411629/127845601-b7df7fe6-8e27-4092-a5a6-25c731d9ade3.jpg)
 
 
 
